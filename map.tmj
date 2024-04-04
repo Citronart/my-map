@@ -516,7 +516,23 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":18.84375,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hello World",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":80.234375,
+                 "x":1322.54947916667,
+                 "y":708.27509469697
+                }],
          "offsetx":1.33333333333337,
          "offsety":0.969696969696884,
          "opacity":1,
@@ -883,7 +899,7 @@
          "y":0
         }],
  "nextlayerid":87,
- "nextobjectid":20,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
